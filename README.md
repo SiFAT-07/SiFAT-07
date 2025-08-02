@@ -17,6 +17,7 @@
 - 🏁 **1st Runner-Up** – Rush Hour (Inter-University Robo-Soccer Competition)
 
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ## 💻 Skills & Tools
 

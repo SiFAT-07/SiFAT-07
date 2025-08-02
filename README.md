@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hello, I'm Maknun Ahmed Sifat (SiFAT-07)
 
-<!--
-**SiFAT-07/SiFAT-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A dedicated Computer Science and Engineering undergraduate at United International University (UIU), passionate about practical innovation and collaborative learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+
+- 🥈 **2nd Runner-Up** – UIU CSE Project Show 2024  
+  *Project: "Assistive Gloves for the Mute and Blind"* (Electronics Lab)
+
+- 🥈 **1st Runner-Up** – UIU CSE Project Show 2025  
+  *Project: "Fire Safety Map"* (Database Management System)
+
+- 🤖 **1st Runner-Up** – UIU CSE Fest 2025 (Robo-Soccer Segment)
+
+- 🏁 **1st Runner-Up** – Rush Hour (Inter-University Robo-Soccer Competition)
+
+---
+
+## 💻 Skills & Tools
+
+- **Programming:** C, C++, Java, Python, PHP, JavaScript  
+- **Database & Web:** SQL, Excel  
+- **Hardware:** Arduino Projects  
+- **Other:** Git, GitHub, LaTeX (Overleaf)
+
+---
+
+## 📂 Projects
+
+- 📄 [LaTeX Report – Overleaf](https://www.overleaf.com/read/nwhfhkpggtpq#00bd05)  
+- 📽️ [Assistive Gloves – Demo Video](https://www.youtube.com/watch?v=-a_GA0ptSi0)
+
+---
+
+## 📹 Media & Demos
+
+- 🔗 [YouTube Channel: @C101ssnnn](https://www.youtube.com/@C101ssnnn)  
+  Featuring tech demos, project showcases, and engineering content.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: msifat223192@bscse.uiu.ac.bd  
+- 🌍 Location: Dhaka, Bangladesh  
+- 🔗 GitHub: [github.com/SiFAT-07](https://github.com/SiFAT-07)
+
+---
+
+⭐ *I aim to combine creativity with engineering to build solutions that matter. Let’s connect and collaborate!*

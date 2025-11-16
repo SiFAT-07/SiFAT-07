@@ -6,18 +6,18 @@
 
 ## 🏆 Achievements
 
-### 🎓 Academic Awards
+### 🎓 Awards
 - 🥇 **Champion – UIU CSE Project Show 2025**  
-  *ResQ (SAD – CSE 251)*
+  *ResQ*
 
 - 🥈 **1st Runner-Up – UIU CSE Project Show 2025**  
-  *Fire Safety Map (DBMS – CSE 243)*
+  *Fire Safety Map*
 
 - 🥉 **2nd Runner-Up – UIU CSE Project Show 2025**  
-  *Req-U (µP & µC Lab – CSE 252)*
+  *Req-U*
 
 - 🥉 **2nd Runner-Up – UIU CSE Project Show 2024**  
-  *Assistive Gloves (Electronics Lab – CSE 241)*
+  *Assistive Gloves*
 
 - 🥉 **2nd Runner-Up – UIU Research & Innovation Week 2025**
 

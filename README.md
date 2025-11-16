@@ -6,15 +6,27 @@
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Runner-Up** – UIU CSE Project Show 2024  
-  *Project: "Assistive Gloves for the Mute and Blind"* (Electronics Lab)
+### 🎓 Academic Awards
+- 🥇 **Champion – UIU CSE Project Show 2025**  
+  *ResQ (SAD – CSE 251)*
 
-- 🥈 **1st Runner-Up** – UIU CSE Project Show 2025  
-  *Project: "Fire Safety Map"* (Database Management System)
+- 🥈 **1st Runner-Up – UIU CSE Project Show 2025**  
+  *Fire Safety Map (DBMS – CSE 243)*
 
-- 🤖 **1st Runner-Up** – UIU CSE Fest 2025 (Robo-Soccer Segment)
+- 🥉 **2nd Runner-Up – UIU CSE Project Show 2025**  
+  *Req-U (µP & µC Lab – CSE 252)*
 
-- 🏁 **1st Runner-Up** – Rush Hour (Inter-University Robo-Soccer Competition)
+- 🥉 **2nd Runner-Up – UIU CSE Project Show 2024**  
+  *Assistive Gloves (Electronics Lab – CSE 241)*
+
+- 🥉 **2nd Runner-Up – UIU Research & Innovation Week 2025**
+
+---
+
+### 🤖 Robotics Competitions
+- 🥈 **1st Runner-Up – UIU CSE Fest 2025 (Robo-Soccer)**  
+- 🥈 **1st Runner-Up – Rush Hour (Inter-University Robo-Soccer)**  
+
 
 ---
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>

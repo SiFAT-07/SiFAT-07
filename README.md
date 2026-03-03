@@ -1,87 +1,65 @@
-🚀 Maknun Ahmed Sifat | SiFAT-07
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/> </p> <p align="center"> 🎓 CSE Undergraduate at <strong>United International University (UIU)</strong> <br> 🤖 Robotics Enthusiast | 💡 Innovator | 🚀 Problem Solver </p>
-🧑‍💻 About Me
+# 👋 Hello, I'm Maknun Ahmed Sifat (SiFAT-07)
 
-Hi! I'm Maknun Ahmed Sifat, a passionate Computer Science & Engineering student who loves building practical, real-world solutions.
+🎓 A dedicated Computer Science and Engineering undergraduate at United International University (UIU), passionate about practical innovation and collaborative learning.
 
-I enjoy:
+---
 
-🔹 Robotics & Embedded Systems
+## 🏆 Achievements
 
-🔹 Software Development
+### 🎓 Awards
+- 🥇 **Champion – UIU CSE Project Show 2025**  
+  *ResQ*
 
-🔹 Research & Innovation
+- 🥈 **1st Runner-Up – UIU CSE Project Show 2025**  
+  *Fire Safety Map*
 
-🔹 Competitive Project Building
+- 🥉 **2nd Runner-Up – UIU CSE Project Show 2025**  
+  *Req-U*
 
-I believe in learning by building and collaborating to create impactful solutions.
+- 🥉 **2nd Runner-Up – UIU CSE Project Show 2024**  
+  *Assistive Gloves*
 
-🏆 Achievements
-🥇 Awards & Recognition
+- 🥉 **2nd Runner-Up – UIU Research & Innovation Week 2025**
 
-🥇 Champion – UIU CSE Project Show 2025 | ResQ
+---
 
-🥈 1st Runner-Up – UIU CSE Project Show 2025 | Fire Safety Map
+### 🤖 Robotics Competitions
+- 🥈 **1st Runner-Up – UIU CSE Fest 2025 (Robo-Soccer)**  
+- 🥈 **1st Runner-Up – Rush Hour (Inter-University Robo-Soccer)**  
 
-🥉 2nd Runner-Up – UIU CSE Project Show 2025 | Req-U
 
-🥉 2nd Runner-Up – UIU CSE Project Show 2024 | Assistive Gloves
+---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-🥉 2nd Runner-Up – UIU Research & Innovation Week 2025
+## 💻 Skills & Tools
 
-🤖 Robotics Competitions
+- **Programming:** C, C++, Java, Python, PHP, JavaScript  
+- **Database & Web:** SQL, Excel  
+- **Hardware:** Arduino Projects  
+- **Other:** Git, GitHub, LaTeX (Overleaf)
 
-🥈 1st Runner-Up – UIU CSE Fest 2025 (Robo-Soccer)
+---
 
-🥈 1st Runner-Up – Rush Hour (Inter-University Robo-Soccer)
+## 📂 Projects
 
-🛠️ Skills & Technologies
-👨‍💻 Programming
+- 📄 [LaTeX Report – Overleaf](https://www.overleaf.com/read/nwhfhkpggtpq#00bd05)  
+- 📽️ [Assistive Gloves – Demo Video](https://www.youtube.com/watch?v=-a_GA0ptSi0)
 
-C C++ Java Python PHP JavaScript
+---
 
-🗄️ Database & Web
+## 📹 Media & Demos
 
-SQL Excel
+- 🔗 [YouTube Channel: @C101ssnnn](https://www.youtube.com/@C101ssnnn)  
+  Featuring tech demos, project showcases, and engineering content.
 
-⚙️ Hardware & Robotics
+---
 
-Arduino Embedded Systems
+## 📫 Contact Me
 
-🧰 Tools
+- 📧 Email: msifat223192@bscse.uiu.ac.bd  
+- 🌍 Location: Dhaka, Bangladesh  
+- 🔗 GitHub: [github.com/SiFAT-07](https://github.com/SiFAT-07)
 
-Git GitHub LaTeX (Overleaf) VS Code
+---
 
-📂 Featured Projects
-🧤 Assistive Gloves
-
-Smart glove designed for accessibility support.
-🎥 Demo: https://www.youtube.com/watch?v=-a_GA0ptSi0
-
-🚨 ResQ
-
-Award-winning emergency response solution.
-🏆 Champion – UIU CSE Project Show 2025
-
-🔥 Fire Safety Map
-
-Interactive safety mapping system.
-🥈 1st Runner-Up – UIU CSE Project Show 2025
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiFAT-07&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiFAT-07&theme=tokyonight" /> </p>
-📺 Media & Content
-
-🎥 YouTube: https://www.youtube.com/@C101ssnnn
-
-Tech demos, robotics builds & engineering showcases.
-
-📫 Connect With Me
-
-📧 Email: msifat223192@bscse.uiu.ac.bd
-
-🌍 Dhaka, Bangladesh
-
-💻 GitHub: https://github.com/SiFAT-07
-
-⭐ “Engineering with creativity. Building with purpose.”
+⭐ *I aim to combine creativity with engineering to build solutions that matter. Let’s connect and collaborate!*

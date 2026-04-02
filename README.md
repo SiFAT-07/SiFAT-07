@@ -7,6 +7,9 @@
 ## 🏆 Achievements
 
 ### 🎓 Awards
+- 🥇 **Champion – UIU CSE Project Show 2026**  
+  *Advyon*
+  
 - 🥇 **Champion – UIU CSE Project Show 2025**  
   *ResQ*
 
@@ -40,13 +43,6 @@
 
 ---
 
-## 📂 Projects
-
-- 📄 [LaTeX Report – Overleaf](https://www.overleaf.com/read/nwhfhkpggtpq#00bd05)  
-- 📽️ [Assistive Gloves – Demo Video](https://www.youtube.com/watch?v=-a_GA0ptSi0)
-
----
-
 ## 📹 Media & Demos
 
 - 🔗 [YouTube Channel: @C101ssnnn](https://www.youtube.com/@C101ssnnn)  
@@ -56,7 +52,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: msifat223192@bscse.uiu.ac.bd  
+- 📧 Email: maknunsifat2002@gmail.com
 - 🌍 Location: Dhaka, Bangladesh  
 - 🔗 GitHub: [github.com/SiFAT-07](https://github.com/SiFAT-07)
 

@@ -31,7 +31,8 @@
 
 ### 🤖 Robotics Competitions
 - 🥈 **1st Runner-Up – UIU CSE Fest 2025 (Robo-Soccer)**  
-- 🥈 **1st Runner-Up – Rush Hour (Inter-University Robo-Soccer)**  
+- 🥈 **1st Runner-Up – Rush Hour: Override 26 (Inter-University Robo-Soccer)**  
+- 🥈 **1st Runner-Up – Rush Hour 25 (Inter-University Robo-Soccer)**  
 
 
 ---

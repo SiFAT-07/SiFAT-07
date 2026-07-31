@@ -7,6 +7,9 @@
 ## 🏆 Achievements
 
 ### 🎓 Awards
+- 🥇 **Champion – Build with Gemma @Bangladesh Hybrid Hackathon '26**  
+  *KrishiBondhu*
+  
 - 🥇 **Champion – UIU CSE Project Show 2026**  
   *Advyon*
   

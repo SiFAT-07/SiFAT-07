@@ -19,17 +19,16 @@
 - 🥈 **1st Runner-Up – UIU CSE Project Show 2025**  
   *Fire Safety Map*
 
-- 🥉 **2nd Runner-Up – UIU CSE Project Show 2025**  
-  *Req-U*
-
-- 🥉 **2nd Runner-Up – UIU CSE Project Show 2024**  
-  *Assistive Gloves*
-
 - 🥉 **2nd Runner-Up – UIU Research & Innovation Week 2025**
 
 ---
 
 ### 🤖 Robotics Competitions
+- 🥉 **2nd Runner-Up – UIU CSE Project Show 2025**  
+  *Req-U*
+
+- 🥉 **2nd Runner-Up – UIU CSE Project Show 2024**  
+  *Assistive Gloves*
 - 🥈 **1st Runner-Up – UIU CSE Fest 2025 (Robo-Soccer)**  
 - 🥈 **1st Runner-Up – Rush Hour: Override 26 (Inter-University Robo-Soccer)**  
 - 🥈 **1st Runner-Up – Rush Hour 25 (Inter-University Robo-Soccer)**  

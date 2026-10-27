@@ -42,10 +42,15 @@
 
 ## 💻 Skills & Tools
 
-- **Programming:** C, C++, Java, Python, PHP, JavaScript  
-- **Database & Web:** SQL, Excel  
-- **Hardware:** Arduino Projects  
-- **Other:** Git, GitHub, LaTeX (Overleaf)
+- Programming Languages: C, C++, Python, Java, JavaScript, TypeScript, PHP
+
+- Web & Full-Stack Development: React.js, Node.js, Tailwind CSS
+
+- Databases & Cloud: MongoDB (Mongoose), SQL (MySQL), MongoDB Atlas
+
+- Embedded Systems & Robotics: Arduino (Nano/Uno/Mega), Raspberry Pi 4/5, Motor Drivers & Actuators, DC Power Systems, Sensor Integration, Underwater ROV Hardware
+
+- Tools & Environments: Git, GitHub, Linux/Bash, LaTeX (Overleaf)
 
 ---
 
@@ -61,6 +66,8 @@
 - 📧 Email: maknunsifat2002@gmail.com
 - 🌍 Location: Dhaka, Bangladesh  
 - 🔗 GitHub: [github.com/SiFAT-07](https://github.com/SiFAT-07)
+- 🔗 LinkedIn:  [www.linkedin.com/in/maknun-ahmed-sifat]
+
 
 ---
 

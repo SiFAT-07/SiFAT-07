@@ -26,7 +26,7 @@
 - Global Finalist & On-Field Competitor – MATE ROV World Championship 2026 [Explorer Class]
 
 ### 🤖 Robotics Competitions
-- 
+
 - 🥉 **2nd Runner-Up – UIU CSE Project Show 2025**  
   *Req-U*
 
